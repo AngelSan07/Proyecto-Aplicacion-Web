@@ -1,0 +1,9 @@
+https://create-react-app.dev/
+
+cdm
+cd --Ruta de la carpeta
+npx create-react-app my-app
+
+
+npm run start
+
